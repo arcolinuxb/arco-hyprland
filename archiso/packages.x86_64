@@ -688,7 +688,7 @@ arcolinux-dconf-all-desktops-git
 #                                ARCOLINUX CALAMARES
 ###########################################################################
 
-arco-calamares
+#arco-calamares
 #arco-calamares-comp
 #arco-calamares-dev
 #arco-calamares-git
@@ -907,3 +907,4 @@ xfce4-taskmanager
 ###########################################################################
 polybar
 autorandr
+arco-calamares-wayland

@@ -171,7 +171,8 @@ echo
 	echo
 	echo "Adding Wayland environment"
 	echo
-	cp -vrf ../wayland/* ../work/archiso/airootfs/etc
+	mkdir ../work/archiso/airootfs/etc/profile.d
+	cp -vrf ../wayland/* ../work/archiso/airootfs/etc/profile.d
 
 	if test -f ../work/archiso/airootfs/personal/.gitkeep ; then
 		echo

@@ -1,9 +1,6 @@
 #https://github.com/Ubuntu-Sway/ubuntusway-default-settings/blob/lunar/etc/profile.d/sway.sh
 
-EDITOR=nano
-BROWSER=firefox
-
-# Set XDG_CURRENT_DESKTOP to Sway (for screencasting and screensharing capabilities)
+# Set XDG_CURRENT_DESKTOP to Hyprland (for screencasting and screensharing capabilities)
 export XDG_CURRENT_DESKTOP=hyprland
 
 # Ubuntu Sway specific config dir
@@ -16,7 +13,6 @@ export MOZ_DBUS_REMOTE=1
 # Force Wayland for Qt apps
 export QT_QPA_PLATFORM="wayland"
 export QT_QPA_PLATFORMTHEME=qt5ct
-#QT_STYLE_OVERRIDE=kvantum
 
 # Force Wayland for EFL (Enlightenment) apps
 export ECORE_EVAS_ENGINE="wayland-egl"
