@@ -905,7 +905,6 @@ xfce4-taskmanager
 ###########################################################################
 #                                ISO SPECIFIC
 ###########################################################################
-polybar
 autorandr
 arco-calamares-wayland
 arcolinux-hyprland-profile-git
