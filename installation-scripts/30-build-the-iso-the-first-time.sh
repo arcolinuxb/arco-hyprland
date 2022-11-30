@@ -26,8 +26,8 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="hypr"
-	dmDesktop="hypr"
+	desktop="hyprland"
+	dmDesktop="hyprland"
 
 	arcolinuxVersion='v22.12.02'
 
