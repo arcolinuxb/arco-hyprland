@@ -168,6 +168,11 @@ echo
 	echo
 	cp -rf ../personal/ ../work/archiso/airootfs/
 
+	echo
+	echo "Adding Wayland environment"
+	echo
+	cp -vrf ../wayland/* ../work/archiso/airootfs/etc
+
 	if test -f ../work/archiso/airootfs/personal/.gitkeep ; then
 		echo
 		rm ../work/archiso/airootfs/personal/.gitkeep
@@ -261,11 +266,11 @@ echo
 	#bios
 	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/syslinux/archiso_sys-linux.cfg
 	#uefi
-	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/1-archiso-x86_64-linux.conf
-	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/2-archiso-x86_64-linux-no-nouveau.conf
-	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/3-nvidianouveau.conf
-	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/4-nvidianonouveau.conf
-	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/5-nomodeset.conf
+	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/01-archiso-x86_64-linux.conf
+	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/02-archiso-x86_64-linux-no-nouveau.conf
+	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/03-nvidianouveau.conf
+	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/04-nvidianonouveau.conf
+	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/efiboot/loader/entries/05-nomodeset.conf
 
 	sed -i 's/'$oldname4'/'$newname4'/g' $buildFolder/archiso/grub/grub.cfg
 	
