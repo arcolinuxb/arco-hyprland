@@ -586,7 +586,8 @@ arcolinux-zsh-git
 #arcolinux-fvwm3-git
 #arcolinux-gnome-git
 #arcolinux-herbstluftwm-git
-arcolinux-hypr-git
+#arcolinux-hypr-git
+arcolinux-hyprland-git
 #arcolinux-i3wm-git
 #arcolinux-icewm-git
 #arcolinux-jwm-git
@@ -742,7 +743,8 @@ adobe-source-han-sans-cn-fonts
 #arcob-calamares-config-fvwm3-git
 #arcob-calamares-config-gnome-git
 #arcob-calamares-config-herbstluftwm-git
-arcob-calamares-config-hypr-git
+#arcob-calamares-config-hypr-git
+arcob-calamares-config-hyprland-git
 #arcob-calamares-config-i3-git
 #arcob-calamares-config-icewm-git
 #arcob-calamares-config-jwm-git
@@ -905,5 +907,3 @@ xfce4-taskmanager
 ###########################################################################
 polybar
 autorandr
-hypr-dev-git
-sxhkd
