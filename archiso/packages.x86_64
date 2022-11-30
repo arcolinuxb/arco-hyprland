@@ -277,7 +277,7 @@ numlockx
 scrot
 #simplescreenrecorder
 #termite
-variety
+#variety
 #vlc
 
 ###conky
@@ -464,7 +464,7 @@ paru-bin
 #peek
 #pulseaudio-equalizer-ladspa
 python-pyparted
-#python-pywal
+python-pywal
 rate-mirrors-bin
 #scour
 #screenkey-git
@@ -495,7 +495,7 @@ yay-bin
 arcolinux-alacritty-git
 arcolinux-arc-kde
 arcolinux-bin-git
-#arcolinux-candy-beauty-git
+arcolinux-candy-beauty-git
 #arcolinux-common-git
 arcolinux-conky-collection-git
 #arcolinux-conky-collection-plasma-git
@@ -506,8 +506,8 @@ arcolinux-desktop-trasher-git
 arcolinux-fonts-git
 #arcolinux-geany-git
 arcolinux-grub-theme-vimix-git
-#arcolinux-gtk3-arcolinux-candy-beauty-git
-arcolinux-gtk3-sardi-arc-git
+arcolinux-gtk3-arcolinux-candy-beauty-git
+#arcolinux-gtk3-sardi-arc-git
 #arcolinux-gtk3-surfn-arc-git
 #arcolinux-gtk3-surfn-arc-breeze-git
 #arcolinux-gtk3-surfn-plasma-dark-git
@@ -541,7 +541,7 @@ arcolinux-pipemenus-git
 #arcolinux-plank-git
 #arcolinux-plank-themes-git
 #arcolinux-plasma-kservices-git
-arcolinux-polybar-git
+#arcolinux-polybar-git
 arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
 arcolinux-rofi-git
@@ -557,9 +557,9 @@ arcolinux-systemd-services-git
 #arcolinux-termite-themes-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
-archlinux-tweak-tool-git
-arcolinux-variety-git
-arcolinux-variety-autostart-git
+#archlinux-tweak-tool-git
+#arcolinux-variety-git
+#arcolinux-variety-autostart-git
 arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
@@ -844,7 +844,7 @@ lxrandr
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
 exo
-garcon
+#garcon
 thunar
 thunar-volman
 tumbler
