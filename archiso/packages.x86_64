@@ -309,7 +309,7 @@ ttf-ubuntu-font-family
 ###themes
 #adapta-gtk-theme
 arc-gtk-theme
-arc-darkest-theme-git
+#arc-darkest-theme-git
 kvantum
 #openbox-arc-git
 
@@ -838,8 +838,8 @@ volumeicon
 #openbox-themes-pambudi-git
 
 ###lx-applications
-#lxappearance
-lxappearance-gtk3
+lxappearance
+#lxappearance-gtk3
 #lxappearance-obconf
 #lxappearance-obconf-gtk3
 lxrandr
@@ -913,3 +913,4 @@ xfce4-taskmanager
 #                                ISO SPECIFIC
 ###########################################################################
 autorandr
+arcolinux-foot-git
