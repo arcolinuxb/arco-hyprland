@@ -167,8 +167,7 @@ nvidia-utils
 nvidia-settings
 mesa-utils
 
-###base and base-devel
-base
+###base-devel
 base-devel
 
 ###virtual box or vmware
@@ -270,6 +269,7 @@ imagemagick
 #libreoffice-fresh
 #lshw
 #meld
+#micro
 nitrogen
 numlockx
 #pragha
