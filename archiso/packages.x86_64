@@ -856,14 +856,14 @@ thunar
 thunar-volman
 tumbler
 xfce4-appfinder
-xfce4-panel
-xfce4-power-manager
+#xfce4-panel
+#xfce4-power-manager
 #xfce4-session
-xfce4-settings
+#xfce4-settings
 xfce4-terminal
-xfconf
+#xfconf
 #xfdesktop
-xfwm4
+#xfwm4
 #xfwm4-themes
 
 ### xfce4-goodies group content
@@ -871,9 +871,9 @@ xfwm4
 #mousepad
 #orage
 #parole
-ristretto
+#ristretto
 thunar-archive-plugin
-thunar-media-tags-plugin
+#thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
@@ -891,14 +891,14 @@ thunar-media-tags-plugin
 #xfce4-mpc-plugin
 #xfce4-netload-plugin
 #xfce4-notes-plugin
-xfce4-notifyd
+#xfce4-notifyd
 #xfce4-pulseaudio-plugin
 #xfce4-screensaver
-xfce4-screenshooter
+#xfce4-screenshooter
 #xfce4-sensors-plugin
 #xfce4-smartbookmark-plugin
 #xfce4-systemload-plugin
-xfce4-taskmanager
+#xfce4-taskmanager
 #xfce4-time-out-plugin
 #xfce4-timer-plugin
 #xfce4-verve-plugin
