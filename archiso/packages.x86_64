@@ -790,7 +790,7 @@ arcob-calamares-config-hyprland-git
 ###########################################################################
 
 accountsservice
-sddm
+#sddm
 arcolinux-sddm-simplicity-git
 
 ###########################################################################
@@ -918,3 +918,6 @@ azote
 wlprop
 wlr-randr
 rofi-lbonn-wayland-only-git
+
+#bug 
+sddm-git
