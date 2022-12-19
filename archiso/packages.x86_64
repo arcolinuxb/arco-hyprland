@@ -918,6 +918,7 @@ azote
 wlprop
 wlr-randr
 rofi-lbonn-wayland-only-git
+hyprpicker-git
 
 #bug 
 sddm-git
