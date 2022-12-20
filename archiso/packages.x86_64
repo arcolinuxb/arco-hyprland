@@ -915,7 +915,8 @@ thunar-archive-plugin
 autorandr
 arcolinux-foot-git
 azote
-wlprop
+#no wlprop here - installs sway
+#wlprop
 wlr-randr
 rofi-lbonn-wayland-only-git
 hyprpicker-git
