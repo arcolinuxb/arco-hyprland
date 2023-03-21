@@ -202,6 +202,13 @@ echo
 	echo
 	wget https://raw.githubusercontent.com/arcolinux/arcolinux-root/master/etc/skel/.bashrc-latest -O $buildFolder/archiso/airootfs/etc/skel/.bashrc
 
+	echo "Removing the old pacman.conf file from build folder"
+	rm $buildFolder/archiso/pacman.conf
+	echo
+	echo "Copying the new pacman.conf file to the build folder"
+	cp -f ../archiso/pacman.conf $buildFolder/archiso/pacman.conf
+	echo
+	
 	echo "Removing the old packages.x86_64 file from build folder"
 	rm $buildFolder/archiso/packages.x86_64
 	rm $buildFolder/archiso/packages-personal-repo.x86_64
@@ -210,6 +217,7 @@ echo
 	cp -f ../archiso/packages.x86_64 $buildFolder/archiso/packages.x86_64
 	echo
 	
+	echo
 	if [ $personalrepo == true ]; then
 		echo "Adding packages from your personal repository - packages-personal-repo.x86_64"
 		printf "\n" | sudo tee -a $buildFolder/archiso/packages.x86_64
@@ -273,7 +281,6 @@ echo
 	date_build=$(date -d now)
 	echo "Iso build on : "$date_build
 	sudo sed -i "s/\(^ISO_BUILD=\).*/\1$date_build/" $buildFolder/archiso/airootfs/etc/dev-rel
-
 
 #echo
 #echo "################################################################## "
