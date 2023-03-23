@@ -913,7 +913,7 @@ thunar-archive-plugin
 ###########################################################################
 #                                ISO SPECIFIC
 ###########################################################################
-autorandr
+#autorandr
 arcolinux-foot-git
 azote
 #no wlprop here - installs sway
