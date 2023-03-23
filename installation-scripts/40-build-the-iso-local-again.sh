@@ -209,13 +209,13 @@ echo
 	cp -f ../archiso/pacman.conf $buildFolder/archiso/pacman.conf
 	echo
 	
-	echo "Removing the old packages.x86_64 file from build folder"
-	rm $buildFolder/archiso/packages.x86_64
-	rm $buildFolder/archiso/packages-personal-repo.x86_64
-	echo
-	echo "Copying the new packages.x86_64 file to the build folder"
-	cp -f ../archiso/packages.x86_64 $buildFolder/archiso/packages.x86_64
-	echo
+	# echo "Removing the old packages.x86_64 file from build folder"
+	# rm $buildFolder/archiso/packages.x86_64
+	# rm $buildFolder/archiso/packages-personal-repo.x86_64
+	# echo
+	# echo "Copying the new packages.x86_64 file to the build folder"
+	# cp -f ../archiso/packages.x86_64 $buildFolder/archiso/packages.x86_64
+	# echo
 	
 	echo
 	if [ $personalrepo == true ]; then
