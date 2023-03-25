@@ -359,7 +359,7 @@ libmtp
 laptop-detect
 lsb-release
 mlocate
-#nomacs
+nomacs
 oh-my-zsh-git
 p7zip
 pkgfile
@@ -791,7 +791,7 @@ arcob-calamares-config-hyprland-git
 ###########################################################################
 
 accountsservice
-#sddm
+sddm
 arcolinux-sddm-simplicity-git
 
 ###########################################################################
@@ -913,36 +913,40 @@ thunar-archive-plugin
 ###########################################################################
 #                                ISO SPECIFIC
 ###########################################################################
-#autorandr
-arcolinux-foot-git
-azote
-#no wlprop here - installs sway
-#wlprop
-wlr-randr
-rofi-lbonn-wayland-only-git
-hyprpicker-git
 
-#bug 
-sddm-git
 
-arcolinux-wayland-app-hooks-git
-
-#packages from Hyprland package build
 #wlogout
+#wlprop
 #wlr-randr
 #wlroots
 arcolinux-foot-git
+arcolinux-kitty-git
+arcolinux-wayland-app-hooks-git
 azote
+bashtop
 cava
 clipman
 dconf-editor
 foot
+grim
 hyprland-dev
+hyprpicker-git
 kitty
 lf
+mako
+micro
 mpv
+pamixer
+rofi-lbonn-wayland-only-git
 slurp
+swaybg
+swayidle
+swaylock
+ttf-jetbrains-mono-nerd
 tty-clock
+waybar-hyprland-git
 wf-recorder
 wl-clipboard
+wlr-randr
+wofi
 xdg-desktop-portal-wlr
