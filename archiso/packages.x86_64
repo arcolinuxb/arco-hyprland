@@ -272,7 +272,7 @@ imagemagick
 #lshw
 #meld
 #micro
-nitrogen
+#nitrogen
 numlockx
 #pragha
 #qbittorrent
@@ -531,7 +531,7 @@ archlinux-logout-git
 #arcolinux-meta-logout
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
-arcolinux-nitrogen-git
+#arcolinux-nitrogen-git
 #arcolinux-oblogout
 #arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
