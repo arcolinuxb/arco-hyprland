@@ -255,7 +255,7 @@ poppler-qt5
 #chromium
 #darktable
 #deadbeef
-dmenu
+#dmenu
 #evolution
 feh
 firefox
@@ -317,13 +317,13 @@ kvantum
 
 ###utilities
 arandr
-asciinema
+#asciinema
 bash-completion
 #baobab
 bat
 #catfish
 #cronie
-dconf-editor
+#dconf-editor
 dex
 #discord
 duf
@@ -380,7 +380,7 @@ ripgrep
 rxvt-unicode
 #simple-scan
 #shotwell
-speedtest-cli-git
+#speedtest-cli-git
 #telegram-desktop
 #timeshift
 tlp
@@ -395,12 +395,12 @@ w3m
 webkit2gtk
 wmctrl
 xapp
-xdo
-xdotool
-xdg-desktop-portal-gtk
+#xdo
+#xdotool
+#xdg-desktop-portal-gtk
 #yt-dlp
 #youtube-dl
-zenity
+#zenity
 zsh
 zsh-completions
 zsh-syntax-highlighting
@@ -434,8 +434,8 @@ ttf-ms-fonts
 #numix-icon-theme-git
 #numix-circle-icon-theme-git
 #paper-icon-theme
-sardi-icons
-surfn-icons-git
+#sardi-icons
+#surfn-icons-git
 #surfn-arc-breeze-icons-git
 #zafiro-icon-theme
 
@@ -448,13 +448,13 @@ mkinitcpio-openswap
 ###utilities-repo
 alacritty
 appstream
-archiso
+#archiso
 conky-lua-archers
 downgrade
 #font-manager
 #glxinfo
 #gitahead-bin
-grub-customizer
+#grub-customizer
 hardcode-fixer-git
 inxi
 mintstick-git
@@ -560,10 +560,10 @@ arcolinux-systemd-services-git
 #arcolinux-termite-themes-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
-#archlinux-tweak-tool-git
+archlinux-tweak-tool-git
 arcolinux-variety-git
 arcolinux-variety-autostart-git
-arcolinux-volumeicon-git
+#arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
 arcolinux-wayland-profile-git
@@ -806,7 +806,7 @@ picom
 
 #mugshot
 #menulibre
-volumeicon
+#volumeicon
 
 ###########################################################################
 #                         ARCOLINUX ISO SPECIFIC
