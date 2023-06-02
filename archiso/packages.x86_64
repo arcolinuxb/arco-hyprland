@@ -950,3 +950,4 @@ wl-clipboard
 wlr-randr
 wofi
 xdg-desktop-portal-hyprland
+#xdg-desktop-portal-gtk
