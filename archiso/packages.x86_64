@@ -360,7 +360,7 @@ libmtp
 laptop-detect
 lsb-release
 mlocate
-nomacs
+#nomacs
 oh-my-zsh-git
 p7zip
 pkgfile
@@ -954,3 +954,4 @@ wlr-randr
 wofi
 xdg-desktop-portal-hyprland
 #xdg-desktop-portal-gtk
+nomacs-qt6-git
