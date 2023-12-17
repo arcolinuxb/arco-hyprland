@@ -933,7 +933,8 @@ clipman
 dconf-editor
 foot
 grim
-hyprland-dev
+#hyprland-dev
+hyprland-git
 hyprpicker-git
 kitty
 lf
