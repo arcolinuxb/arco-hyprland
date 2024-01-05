@@ -29,7 +29,7 @@ echo
 	desktop="hyprland"
 	dmDesktop="hyprland"
 
-	arcolinuxVersion='v24.02.01'
+	arcolinuxVersion='v24.02.02'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
