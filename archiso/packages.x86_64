@@ -983,12 +983,14 @@ wofi
 xdg-desktop-portal
 xdg-desktop-portal-wlr
 
-## wayfire 
+## wayfire
+#arcolinux-wayfire-git
 #wayfire-git
 #wayfire-plugins-extra-git
 #wcm-git
 #wf-kill-git
 #wf-shell-git
+#libliftoff
 
 ## sway
 #sway-git
@@ -999,3 +1001,11 @@ xdg-desktop-portal-wlr
 ## hyprland
 hyprland-git
 waybar-hyprland-git
+
+## newm
+#newm-atha-git
+#sxhkd
+#ttf-jetbrains-mono-nerd
+
+## chaotics-aur
+canta-icon-theme-git
