@@ -8,7 +8,7 @@
 
 	git clone https://github.com/arcolinuxb/arco-hyprland
 
-# Follow installation tutorials on
+# Follow building and installation tutorials on
 
 https://arcolinuxb.com
 
