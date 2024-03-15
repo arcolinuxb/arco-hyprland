@@ -457,7 +457,7 @@ neofetch
 #arcolinux-pamac-all
 #octopi
 #octopi-notifier-qt5
-pamac-aur
+#pamac-aur
 paru-bin
 #peek
 #pulseaudio-equalizer-ladspa
@@ -972,7 +972,7 @@ swayidle
 swaylock
 swww
 ttf-jetbrains-mono-nerd
-waybar
+waybar-git
 waycheck
 waycheck
 wf-recorder-git
@@ -1000,7 +1000,7 @@ xdg-desktop-portal-wlr
 
 ## hyprland
 hyprland-git
-waybar-hyprland-git
+#waybar-hyprland-git
 
 ## newm
 #newm-atha-git
