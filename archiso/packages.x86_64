@@ -976,7 +976,6 @@ swww
 ttf-jetbrains-mono-nerd
 waybar-git
 waycheck
-waycheck
 wf-recorder-git
 wl-clipboard
 wlogout
@@ -995,14 +994,13 @@ xdg-desktop-portal-wlr
 #libliftoff
 
 ## sway
-#sway-git
+#sway
 #wlroots-git
 #swaybg-git
 #wlprop
 
 ## hyprland
 hyprland-git
-#waybar-hyprland-git
 
 ## newm
 #newm-atha-git
